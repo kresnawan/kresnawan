@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello world
 
+I'm doing bunch of fullstack stuff (Mainly with react and express) (even though some of them are not visible for everyone) And also I'm currently aims to getting deeper into GPU and low-level stuff, I'm not that good btw. But surely the grinds never stop.
 <!--
 **kresnawan/kresnawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
