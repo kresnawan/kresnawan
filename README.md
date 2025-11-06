@@ -1,6 +1,6 @@
 ## Hello world
 
-I'm doing bunch of fullstack stuff (Mainly with react and express) (even though some of them are not visible for everyone) And also I'm currently aims to getting deeper into GPU and low-level stuff, I'm not that good btw. But surely the grinds has no end in sight.
+My main intention was to solve problems which beneficial for society, simplifying things with leverages of technology.
 
 www.kresnawan.com
 <!--
