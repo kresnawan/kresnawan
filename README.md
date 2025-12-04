@@ -1,6 +1,6 @@
 ## Hi, I'm Kresnawan
 
-My main intention was to solve problems which beneficial for society, simplifying things with leverages of technology.
+I do code.
 
 www.kresnawan.com
 <!--
