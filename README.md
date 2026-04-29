@@ -1,4 +1,4 @@
-## Hi, I'm Kresnawan
+## Hi, I'm Kres
 
 I do code, mainly with Go and Rust.
 
